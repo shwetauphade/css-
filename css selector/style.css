@@ -1,0 +1,31 @@
+*{
+
+    margin:0;
+    padding:0;
+}
+p{ 
+    color:aqua;
+}
+#title{
+    color:brown;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.box{ 
+   
+    border: 2px solid black;
+     text-align: center;
+     width:700px;
+     color:aqua;
+     margin:20px auto;
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+h1,p{
+    color: chartreuse;
+    text-align: center;
+}
