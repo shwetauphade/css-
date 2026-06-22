@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    /* Dark overlay + background image */
+   
+        
+    background-image: url("/css/css_selector/css color and background/image/images.jfif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: rgb(0, 234, 255);
+    font-size: 60px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: rgba(255, 140, 0, 0.4);
+    width: 250px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px blue;
+}
+
+.card h2 {
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
